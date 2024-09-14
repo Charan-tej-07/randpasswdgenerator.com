@@ -1,1 +1,1 @@
-# randpasswdgenerator.com
+ randpasswdgenerator.com
